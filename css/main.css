@@ -13,8 +13,8 @@ h2 {
 }
 
 .button {
-    background-color: hotpink;
-    color: blueviolet;
+    background-color: black;
+    color: hotpink;
     padding: 10px;
     border-radius: 8px;
 }
