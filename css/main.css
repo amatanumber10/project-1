@@ -8,6 +8,13 @@ h2 {
     color: hotpink;
 }
 
-#comtainer {
+#container {
+    color: aquamarine;
+}
+
+.button {
     background-color: aquamarine;
     color: black;
+    padding: 10px;
+    border-radius: 8px;
+    
