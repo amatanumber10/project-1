@@ -17,4 +17,10 @@ h2 {
     color: black;
     padding: 10px;
     border-radius: 8px;
-    
+}
+
+.button:hover {
+    background-color: hotpink;
+    border-color: hotpink;
+
+}    
