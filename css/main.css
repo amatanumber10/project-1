@@ -13,8 +13,8 @@ h2 {
 }
 
 .button {
-    background-color: aquamarine;
-    color: black;
+    background-color: rgb(255, 127, 238);
+    color: rgb(67, 254, 167);
     padding: 10px;
     border-radius: 8px;
 }
