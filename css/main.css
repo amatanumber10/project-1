@@ -1,11 +1,13 @@
 /* Place CSS styles here */
 
 h2 {
-    color: aquamarine;
+    color:rgb(253, 49, 151)
 }
 
 .uglybutton {
     color: hotpink;
 }
 
-#
+#comtainer {
+    background-color: aquamarine;
+    color: black;
