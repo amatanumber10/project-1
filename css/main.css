@@ -23,4 +23,9 @@ h2 {
     background-color: hotpink;
     border-color: hotpink;
 
-}    
+}
+
+.button:focus {
+    border: 1px solid black;
+    
+}
