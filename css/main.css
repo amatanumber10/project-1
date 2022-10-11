@@ -5,7 +5,7 @@ h2 {
 }
 
 .uglybutton {
-    color: hotpink;
+    color: blanchedalmond;
 }
 
 #container {
@@ -13,15 +13,15 @@ h2 {
 }
 
 .button {
-    background-color: black;
-    color: hotpink;
+    background-color: aquamarine;
+    color: blanchedalmond;
     padding: 10px;
     border-radius: 8px;
 }
 
 .button:hover {
-    background-color: hotpink;
-    border-color: hotpink;
+    background-color: blanchedalmond;
+    border-color: blanchedalmond;
 
 }
 
